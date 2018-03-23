@@ -1,0 +1,51 @@
+.Wdate {
+	background: url(calendar01.png) no-repeat right center #fff;
+	cursor: pointer;
+}
+
+.Wdate:hover,.Wdate.textbox:focus{
+	border-color: #0cf;
+	background: url(calendar02.png) no-repeat right center;
+}
+
+.z-Wdate {
+	background: #fff url(calendar01.png) no-repeat right center;
+	width: 210px;
+	height: 30px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	cursor: pointer;
+	text-indent: 10px;
+	font-family: "微软雅黑";
+}
+
+.z-Wdate:hover {
+	background: #fff url(calendar02.png) no-repeat right center;
+}
+
+.WdateFmtErr {
+	font-weight: bold;
+	color: red;
+}
+
+.jrf_wdate {
+	width: 267px !important;
+	height: 382px !important;
+	font-family: "微软雅黑";
+}
+
+.MyConRes .Wdate,.add_milepost .Wdate,.edit_milepost .Wdate {
+	background: #fff url(calendar01.png) no-repeat right center;
+	width: 200px;
+	height: 30px;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	cursor: pointer;
+	text-indent: 10px;
+	font-family: "微软雅黑";
+}
+
+.MyConRes .Wdate:hover,.add_milepost .Wdate:hover,.edit_milepost .Wdate:hover
+	{
+	background: #fff url(calendar02.png) no-repeat right center
+}

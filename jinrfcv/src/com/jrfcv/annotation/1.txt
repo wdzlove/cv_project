@@ -1,0 +1,2 @@
+优化后的多方法访问路径是http://localhost:8080/SpringMVC_ZJ/user/addUser  
+有区别于没有注解的访问方式

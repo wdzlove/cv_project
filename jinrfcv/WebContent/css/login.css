@@ -1,0 +1,9 @@
+html,body{height: 100%;background: url(/img/login_bg.jpg) no-repeat center center;position: relative;}
+.login_area{width: 510px;height: 310px;background: url(/img/login_areabg.png) no-repeat center center;position: absolute;top: 50%;left: 50%;margin: -155px 0 0 -255px;}
+.login_input{width: 182px;height: 26px;line-height: 26px;padding: 0 15px;border: none;position: absolute;left: 192px;outline: none;
+	-webkit-border-radius: 20px;-moz-border-radius: 20px;-ms-border-radius: 20px;-o-border-radius: 20px;border-radius: 20px;}
+.login_user{top: 113px;}
+.login_pswd{top: 157px;}
+.login_btn{display: block;width: 76px;height: 32px;position: absolute;top: 216px;left: 217px;
+	-webkit-border-radius: 20px;-moz-border-radius: 20px;-ms-border-radius: 20px;-o-border-radius: 20px;border-radius: 20px;}
+.login_btn:hover{background: rgba(255,255,255,.2);}
